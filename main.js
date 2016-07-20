@@ -1,21 +1,16 @@
 /*
 =======================================================
-
 ** Week 1 - Project 1 **
-
 Below are a number of problems for you to solve
 using JS. The JS code can be written below each
 problem and the result can be logged to the console.
-
 In order to make the results easy to read,
 please use console.log("Question #") to declare the
 problem number being solved followed by console.log(yourAnswer) after each question.
-
 EXAMPLE:
 // 1. Log your 'hello world' to the console.
 console.log("Question 1")
 console.log("hello world")
-
 BASIC TRACK: 1-7
 ADVANCED TRACK: 8-11
 =======================================================
@@ -25,13 +20,15 @@ ADVANCED TRACK: 8-11
 
 // 1. Log your name to the console (as a string).
 console.log("Question 1");
-
+console.log("julio");
 
 
 
 // 2. Declare a new variable called 'name',
 //    and then log it to the console.
-
+console.log("Question 2");
+var name = "Julio";
+console.log(name);
 
 
 
@@ -93,4 +90,4 @@ console.log("Question 1");
 
 
 
-// 11. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console. 
+// 11. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console.
