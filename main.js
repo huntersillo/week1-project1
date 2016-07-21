@@ -35,14 +35,21 @@ console.log(name);
 
 // 3. Declare two variables with number values.
 //    Add, subtract, multiply and divide them.
-
-
+console.log("Question 3");
+var age = 35;
+console.log(age);
 
 
 
 // 4. Declare two variables with string values.
 //    Create a third variable that concatenates the two strings
 //    that also places a space between the strings.
+
+console.log("Question 4");
+var tomato = 30 ;
+var apple = 105 ;
+var total = tomato + apple;
+console.log(total);
 
 
 
@@ -51,14 +58,17 @@ console.log(name);
 // 5. Add, subract, multiply and divide the strings '5' and '3'.
 //    Observe the results and brieftly explain the results within the console.
 
+console.log("Question 4");
+var tomato = "4";
+var apple ="10";
+var total = tomato + apple;
+console.log(total);
 
 
 
 
 // 6. Create an simple alert stating anything you wish. 
-
-
-
+alert("I w");
 
 
 // 7. Create a prompt that asks a user to pick a number.
